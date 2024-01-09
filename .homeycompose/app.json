@@ -1,0 +1,28 @@
+{
+  "id": "it.arns.aqara.fp2.sleepsensor",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Aqara FP2 SleepTracker"
+  },
+  "description": {
+    "en": "Adds support for the Aqara FP2 Sensor in sleep mode"
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Patrick Arns",
+    "email": "homey@patrick-arns.de"
+  }
+}
